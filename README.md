@@ -1,2 +1,2 @@
 # movie_tracker
-Library tmdbsimple should be installed. Possible with 'pip install tmdbsimple'.
+A python library 'tmdbsimple' is used.
